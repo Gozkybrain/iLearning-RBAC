@@ -203,11 +203,11 @@ are **flat** - one folder per role, no route groups - so each URL is simply
 
 Two deeper documents live alongside this README:
 
-- **[`documentation.md`](CODE_OF_CONDUCT.md)** - the developer's guide: how the
+- **[`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)** - the developer's guide: how the
   app is built, the architecture, RBAC model, data shapes and how the pieces
   fit together.
 - **[`CONTEXT.md`](CONTEXT.md)** - the design system and detailed behaviour of
   every dashboard and component.
 
 If you want to jump straight into how the code works, start at
-[`documentation.md`](documentation.md).
+[`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md).
