@@ -5,7 +5,7 @@ school's **public website** (home, about, services, staff, terms) and the
 **DIOS** - a Digital Institution Operating System with logins and a dedicated
 dashboard for every role in the school.
 
-> Live: [i-learning-os.vercel.app](https://i-learning-os.vercel.app)
+> DEMO: [i-learning-os.vercel.app](https://i-learning-os.vercel.app)
 
 ---
 
