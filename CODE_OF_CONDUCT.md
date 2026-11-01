@@ -76,7 +76,6 @@ the enforcement point.
 | Database         | Firebase Firestore                                                |
 | Admin SDK        | firebase-admin (server-only, env credentials)                     |
 | Security         | CSP + security headers in `next.config.mjs`                       |
-| Hosting          | Vercel                                                            |
 | Icons            | Custom inline SVG set in `components/ui/Icon.jsx`                 |
 
 ---
