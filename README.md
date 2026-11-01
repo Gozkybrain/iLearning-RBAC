@@ -35,7 +35,6 @@ principal).
 | Auth        | Firebase Auth (Email/Password)                |
 | Database    | Firebase Firestore                            |
 | Security    | CSP + security headers in `next.config.mjs`   |
-| Hosting     | Vercel                                        |
 
 ---
 
